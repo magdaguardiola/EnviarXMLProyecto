@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EnviarXMLProyecto:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EnviarXMLProyecto_jar</output-path>
+    <root id="archive" name="EnviarXMLProyecto.jar">
+      <element id="module-output" name="EnviarXMLProyecto" />
+    </root>
+  </artifact>
+</component>
