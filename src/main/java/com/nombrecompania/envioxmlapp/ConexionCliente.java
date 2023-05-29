@@ -1,4 +1,4 @@
-package com.nombrecompania.envioxmlapp.utils;
+package com.nombrecompania.envioxmlapp;
 
 import com.nombrecompania.envioxmlapp.exceptions.ErrorCerrandoConexionException;
 import com.nombrecompania.envioxmlapp.exceptions.ErrorEnviandoDatosException;

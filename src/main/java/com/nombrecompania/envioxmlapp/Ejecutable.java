@@ -5,7 +5,6 @@ import com.nombrecompania.envioxmlapp.exceptions.ErrorDeConexionException;
 import com.nombrecompania.envioxmlapp.exceptions.ErrorEnviandoDatosException;
 import com.nombrecompania.envioxmlapp.exceptions.IPNOValidaException;
 import com.nombrecompania.envioxmlapp.exceptions.PuertoNOValidoExcveption;
-import com.nombrecompania.envioxmlapp.utils.ConexionCliente;
 import com.nombrecompania.envioxmlapp.utils.ValidacionUtil;
 import com.nombrecompania.envioxmlapp.actions.EnviarXmlAction;
 import java.util.InputMismatchException;

@@ -3,7 +3,7 @@ package com.nombrecompania.envioxmlapp.actions;
 
 import com.nombrecompania.envioxmlapp.exceptions.ErrorDeConexionException;
 import com.nombrecompania.envioxmlapp.exceptions.ErrorEnviandoDatosException;
-import com.nombrecompania.envioxmlapp.utils.ConexionCliente;
+import com.nombrecompania.envioxmlapp.ConexionCliente;
 import org.junit.jupiter.api.Test;
 
 class EnviarXmlActionTest {
